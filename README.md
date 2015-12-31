@@ -1,4 +1,4 @@
-Alpine Courier IMAPS
+Arch Courier IMAPS
 ==
 
 Simple container; contains an IMAPS implementation
